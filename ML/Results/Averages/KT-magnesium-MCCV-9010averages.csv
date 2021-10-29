@@ -1,0 +1,5 @@
+Source,Alloy Name,Expected,Average Prediction
+Magnesium Dataset,AM50,109.0,109.09622302158273
+Magnesium Dataset,AM70,127.0,127.93623481781377
+Magnesium Dataset,AM60,120.0,118.26
+Magnesium Dataset,AM40,107.0,109.6632075471698

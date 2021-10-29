@@ -1,0 +1,27 @@
+{
+    "id": "71E27E13",
+    "path": "~/Documents/University/Sem 1 2021/ENGN4200/Datasets/Final Dataset/Data Analysis/kerastuner_full_dataset.R",
+    "project_path": "kerastuner_full_dataset.R",
+    "type": "r_source",
+    "hash": "4176618499",
+    "contents": "",
+    "dirty": false,
+    "created": 1633835047049.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "33,93",
+        "scrollLine": "10"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1635424881,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1635424881220,
+    "read_only": false,
+    "read_only_alternatives": []
+}

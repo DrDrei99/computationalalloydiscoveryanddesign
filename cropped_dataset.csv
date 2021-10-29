@@ -1,0 +1,710 @@
+Source,Folder,Image,Name,Tensile Strength (Yield),Scale Length (px),Scale,Estimate,Note,Prop Source
+Magnesium Dataset,processed_images/,am50_5p0_1771c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1772c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1802c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1820c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1816c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1792c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1770c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1796c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1774c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1825c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1824c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1804c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1801c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1775c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1822c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1817c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1799c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1787c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1793c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1800c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1806c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1821c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1818c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1782c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1810c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1830c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1786c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1773c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1791c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1803c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1829c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1823c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1809c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1805c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1779c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1811c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1795c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1798c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1827c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1812c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1780c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1784c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1777c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1769c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1790c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1788c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1819c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1815c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1808c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1797c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1785c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1814c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1826c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1807c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1794c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1789c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1781c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1813c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1783c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1776c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_2p5_1828c.png,AM50,109,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am50_5p0_1778c.png,AM50,109,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1763c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1730c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1750c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1728c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1719c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1751c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1768c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1716c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1698c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1738c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1725c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1737c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1723c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1729c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1767c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1727c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1713c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1696c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1694c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1691c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1693c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1760c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1741c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1765c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1742c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1764c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1740c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1749c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1721c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1761c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1733c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1752c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1757c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1759c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1756c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1746c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1697c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1732c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1754c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1699c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1755c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1712c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1700c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1714c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1724c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1692c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1734c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1726c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1731c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1736c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1753c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1762c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1766c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1695c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1747c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1748c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1745c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1722c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1717c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_5p0_1720c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1743c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1735c.png,AM40,107,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1744c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am40_2p5_1758c.png,AM40,107,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1577c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1572c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1598c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1612c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1605c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1602c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1596c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1568c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1579c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1592c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1601c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1617c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1564c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1571c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1561c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1562c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1616c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1573c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_1556c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1619c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1611c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1563c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_1557c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1614c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1567c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1603c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1593c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1586c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1600c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1581c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1613c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1588c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1597c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1615c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1591c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_1554c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1583c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1618c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1584c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1606c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1609c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1569c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1566c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1620c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1580c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1565c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_1558c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1607c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1574c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1576c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_1559c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_1555c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1594c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1590c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1582c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1578c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_1553c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1587c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1589c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1599c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1608c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1570c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1585c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1604c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_5p0_f_e_1575c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1610c.png,AM70,127,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am70_2p5_f_1595c.png,AM70,127,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1675c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1667c.png,AM60,120,410,10,,Bar,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1638c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_edge_1627c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1688c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_edge_1634c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1685c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1644c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1686c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1683c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1656c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1666c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1637c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_edge_1629c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1649c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1640c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1670c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1678c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1650c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_edge_1633c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1690c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1689c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1641c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_edge_1625c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1668c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1671c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_edge_1632c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1660c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_edge_1626c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1651c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1673c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_edge_1623c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_edge_1628c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1687c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1669c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1676c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1645c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1653c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1681c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1672c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1647c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1652c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1665c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_edge_1635c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_edge_1624c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1654c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1684c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1655c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1648c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1663c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1664c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1639c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1662c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1659c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1677c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1642c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1658c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1674c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1646c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_edge_1630c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1680c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1661c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1636c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_2p5_1682c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1643c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_1657c.png,AM60,120,512,50,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Magnesium Dataset,processed_images/,am60_5p0_edge_1631c.png,AM60,120,410,10,,,"Erin M. Deda, The Effect of Aluminum Content and Processing on the Tensile Behavior of High Pressure Die Cast Mg Alloys, 2017"
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face1-250xc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,284,50,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face1-500x-Ac.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,460,40,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face1-500x-Bc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,460,40,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face1-500x-Cc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,453,40,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face1-500x-Dc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,454,40,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face1-500x-Ec.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,457,40,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face1-1000xc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,455,20,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face1-2000xc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,453,10,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face2-250xc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,286,50,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face2-500x-Ac.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,453,40,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face2-500x-Bc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,457,40,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face2-500x-Cc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,453,40,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face2-500x-Dc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,451,40,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face2-500x-Ec.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,457,40,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face2-1000xc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,452,20,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face2-2000xc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,457,10,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face3-250xc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,282,50,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face3-500x-Ac.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,455,40,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face3-500x-Bc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,454,40,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face3-500x-Cc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,457,40,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face3-500x-Dc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,455,40,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face3-500x-Ec.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,453,40,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face3-1000xc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,458,20,,,matweb
+Ti-6Al-2Sn-4Zr-2Mo-0.1Si Dataset,processed_images/,Billet_Face3-2000xc.png,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,1050,452,10,,,matweb
+ASM Dataset,processed_images/,201-0c.png,201,215,117,100,Condition,,matweb
+ASM Dataset,processed_images/,201-0T7-1c.png,201.0-T7,400,114,100,,,makeitfrom
+ASM Dataset,processed_images/,201-0T7-2c.png,201.0-T7,400,145,25,,,makeitfrom
+ASM Dataset,processed_images/,206-0-1c.png,206,350,154,100,Condition,,matweb
+ASM Dataset,processed_images/,206-0-2c.png,206,350,66,50,Condition,,matweb
+ASM Dataset,processed_images/,213-0-1c.png,213,130,197,100,,Defaced,makeitfrom
+ASM Dataset,processed_images/,213-0-2c.png,213,130,199,100,,Defaced,makeitfrom
+ASM Dataset,processed_images/,213-0-3c.png,213,130,200,100,,Defaced,makeitfrom
+ASM Dataset,processed_images/,213-0-4c.png,213,130,197,100,,Defaced,makeitfrom
+ASM Dataset,processed_images/,222-0-1c.png,222,140,156,200,,,"J. G. Kaufman, Introduction to Aluminum Alloys and Tempers, p53"
+ASM Dataset,processed_images/,222-0-2c.png,222,140,191,100,,Defaced,matweb
+ASM Dataset,processed_images/,238-0-1c.png,238,210,144,25,,,makeitfrom
+ASM Dataset,processed_images/,242-0-1c.png,242,120,114,100,,,makeitfrom
+ASM Dataset,processed_images/,A260-0-1c.png,A260.0,190,82,250,Condition,,makeitfrom
+ASM Dataset,processed_images/,A260-0-2c.png,A260.0,190,258,25,Condition,,makeitfrom
+ASM Dataset,processed_images/,308-0-1c.png,308,110,144,25,,,matweb
+ASM Dataset,processed_images/,319-0-1c.png,319,96.5,114,100,,,matweb
+ASM Dataset,processed_images/,319-0-S1c.png,319.0 Solution aged,185,114,100,,,matweb
+ASM Dataset,processed_images/,319-0-U1c.png,319.0 Unspecified,96.5,238,100,Unspecified,,matweb
+ASM Dataset,processed_images/,319-0-U2c.png,319.0 Unspecified,96.5,225,25,Unspecified,,matweb
+ASM Dataset,processed_images/,319-0-U3c.png,319.0 Unspecified,96.5,297,25,Unspecified,,matweb
+ASM Dataset,processed_images/,319-0-U4c.png,319.0 Unspecified,96.5,206,25,Unspecified,,matweb
+ASM Dataset,processed_images/,319-0-U5c.png,319.0 Unspecified,96.5,239,50,Unspecified,,matweb
+ASM Dataset,processed_images/,319-0-U6c.png,319.0 Unspecified,96.5,238,50,Unspecified,,matweb
+ASM Dataset,processed_images/,319-0-U7c.png,319.0 Unspecified,96.5,298,25,Unspecified,,matweb
+ASM Dataset,processed_images/,319-0-U8c.png,319.0 Unspecified,96.5,235,50,Unspecified,,matweb
+ASM Dataset,processed_images/,328-0-1c.png,328.0 Unspecified,96.5,296,25,Unspecified,,matweb
+ASM Dataset,processed_images/,354-0-1c.png,354,280,142,50,Condition,,makeitfrom
+ASM Dataset,processed_images/,354-0-2c.png,354,280,145,50,Condition,,makeitfrom
+ASM Dataset,processed_images/,354-0-3c.png,354.0 T,280,143,250,Condition,,makeitfrom
+ASM Dataset,processed_images/,355-0-T6-1c.png,355.0 T6,185,145,25,,,matweb
+ASM Dataset,processed_images/,355-0-1c.png,355,150,143,50,Condition,,makeitfrom
+ASM Dataset,processed_images/,355-0-2c.png,355,150,143,50,Condition,,makeitfrom
+ASM Dataset,processed_images/,355-0-U-1c.png,355.0 Unspecified,150,236,25,Unspecified,,makeitfrom
+ASM Dataset,processed_images/,355-0-U-2c.png,355.0 Unspecified,150,235,50,Unspecified,,makeitfrom
+ASM Dataset,processed_images/,355-0-U-3c.png,355.0 Unspecified,150,299,50,Unspecified,,makeitfrom
+ASM Dataset,processed_images/,355-0-U-4c.png,355.0 Unspecified,150,234,50,Unspecified,,makeitfrom
+ASM Dataset,processed_images/,355-0-U-5c.png,355.0 Unspecified,150,235,25,Unspecified,,makeitfrom
+ASM Dataset,processed_images/,356-0-T51-1c.png,356.0 T51,110,144,50,,,makeitfrom
+ASM Dataset,processed_images/,356-0-1c.png,356,100,143,50,,,makeitfrom
+ASM Dataset,processed_images/,356-0-2c.png,356,100,193,50,,,makeitfrom
+ASM Dataset,processed_images/,356-0-3c.png,356,100,196,100,,,makeitfrom
+ASM Dataset,processed_images/,356-0-4c.png,356,100,235,25,,,makeitfrom
+ASM Dataset,processed_images/,356-0-5c.png,356,100,144,250,,,makeitfrom
+ASM Dataset,processed_images/,356-0-6c.png,356,100,116,100,,,makeitfrom
+ASM Dataset,processed_images/,356-0-7c.png,356,100,114,100,,,makeitfrom
+ASM Dataset,processed_images/,356-0-T6-1c.png,356.0 T6,152,144,250,,,matweb
+ASM Dataset,processed_images/,356-0-T6-2c.png,356.0 T6,152,145,50,,,matweb
+ASM Dataset,processed_images/,356-0-T6-3c.png,356.0 T6,152,111,100,,,matweb
+ASM Dataset,processed_images/,A356-0-1c.png,A356.0,83,116,5000,,,makeitfrom
+ASM Dataset,processed_images/,A356-0-2c.png,A356.0,83,114,5000,,,makeitfrom
+ASM Dataset,processed_images/,A357-0-T61-1c.png,A357.0 T61,250,141,25,,,matweb
+ASM Dataset,processed_images/,A357-0-T61-2c.png,A357.0 T61,250,148,25,,,matweb
+ASM Dataset,processed_images/,413-0-1c.png,413,130,144,100,,,matweb
+ASM Dataset,processed_images/,443-0-1c.png,443,48.3,144,25,,,matweb
+ASM Dataset,processed_images/,B443-0-1c.png,B443.0,41.4,144,25,,,matweb
+ASM Dataset,processed_images/,C443-0-1c.png,C443.0,100,144,25,,,matweb
+ASM Dataset,processed_images/,520-0-T4-1c.png,520.0 T4,152,114,100,,,matweb
+ASM Dataset,processed_images/,520-0-T4-2c.png,520.0 T4,152,145,25,,,matweb
+ASM Dataset,processed_images/,1100-O-1c.png,1100 Annealed,34.5,143,25,,,matweb
+ASM Dataset,processed_images/,2014-T4-1c.png,2014 T4,290,144,50,,,matweb
+ASM Dataset,processed_images/,2014-T4-2c.png,2014 T4,290,115,100,,,matweb
+ASM Dataset,processed_images/,2014-T6-1c.png,2014 T6,483,142,25,,,matweb
+ASM Dataset,processed_images/,2014-T6-2c.png,2014 T6,483,142,50,,,matweb
+ASM Dataset,processed_images/,2014-T6-3c.png,2014 T6,483,115,100,,,matweb
+ASM Dataset,processed_images/,2014-H18-1c.png,2014 H18,110,141,25,Condition,,matweb
+ASM Dataset,processed_images/,2024-O-1c.png,2024 Annealed,95,142,25,,,matweb
+ASM Dataset,processed_images/,2024-O-2c.png,2024 Annealed,95,113,100,,,matweb
+ASM Dataset,processed_images/,2024 T3-1c.png,2024 T3,290,143,25,,,matweb
+ASM Dataset,processed_images/,2024 T3-2c.png,2024 T3,290,143,25,,,matweb
+ASM Dataset,processed_images/,2024 T3-3c.png,2024 T3,290,145,25,,,matweb
+ASM Dataset,processed_images/,2024 T3-4c.png,2024 T3,290,143,25,,,matweb
+ASM Dataset,processed_images/,2024 T6-1c.png,2024 T6,345,114,100,,,matweb
+ASM Dataset,processed_images/,2024 T6-2c.png,2024 T6,345,115,100,,,matweb
+ASM Dataset,processed_images/,2024 T6-3c.png,2024 T6,345,113,100,,,matweb
+ASM Dataset,processed_images/,2024 T851-1c.png,2024 T851,400,112,50,,,matweb
+ASM Dataset,processed_images/,2024 T851-2c.png,2024 T851,400,114,50,cold rolled,,matweb
+ASM Dataset,processed_images/,2024 T851-3c.png,2024 T851,400,116,50,cold rolled,,matweb
+ASM Dataset,processed_images/,2024 T851-4c.png,2024 T851,400,114,50,cold rolled,,matweb
+ASM Dataset,processed_images/,2024 T851-5c.png,2024 T851,400,115,50,cold rolled,,matweb
+ASM Dataset,processed_images/,2024 T851-6c.png,2024 T851,400,142,25,hot rolled,,matweb
+ASM Dataset,processed_images/,2218 T61-1c.png,2218 T61,305,114,100,,,matweb
+ASM Dataset,processed_images/,2219 T6-1c.png,2219 T6,250,113,100,,,matweb
+ASM Dataset,processed_images/,2618 T4-1c.png,2618 T4,450,142,25,,,http://www.referansmetal.com/alasimli-aluminyum/product/194/uzay-havacilik-savunma/cubuk-lama/dtd-5014a-alcu2mg1-5ni-2618-2618a-t4?lang=fr
+ASM Dataset,processed_images/,2618 T4-2c.png,2618 T4,450,142,25,,,http://www.referansmetal.com/alasimli-aluminyum/product/194/uzay-havacilik-savunma/cubuk-lama/dtd-5014a-alcu2mg1-5ni-2618-2618a-t4?lang=fr
+ASM Dataset,processed_images/,2618 T4-3c.png,2618 T4,450,141,25,,,http://www.referansmetal.com/alasimli-aluminyum/product/194/uzay-havacilik-savunma/cubuk-lama/dtd-5014a-alcu2mg1-5ni-2618-2618a-t4?lang=fr
+ASM Dataset,processed_images/,2618 T4-4c.png,2618 T4,450,142,25,,,http://www.referansmetal.com/alasimli-aluminyum/product/194/uzay-havacilik-savunma/cubuk-lama/dtd-5014a-alcu2mg1-5ni-2618-2618a-t4?lang=fr
+ASM Dataset,processed_images/,3003 Annealed-1c.png,3003 Annealed,41,112,100,,,matweb
+ASM Dataset,processed_images/,3003 Annealed-2c.png,3003 Annealed,41,85,10,,,matweb
+ASM Dataset,processed_images/,5083 H112-1c.png,5083 H112,190,144,250,,,matweb
+ASM Dataset,processed_images/,5083 H112-2c.png,5083 H112,190,144,25,,,matweb
+ASM Dataset,processed_images/,5086 H34-1c.png,5086 H34,255,141,50,,,matweb
+ASM Dataset,processed_images/,5456 Annealed-1c.png,5456 Annealed,159,141,25,,,matweb
+ASM Dataset,processed_images/,5457 Annealed-1c.png,5457 Annealed,48,113,100,,,matweb
+ASM Dataset,processed_images/,5457 Annealed-2c.png,5457 Annealed,48,114,100,,,matweb
+ASM Dataset,processed_images/,5657 Annealed-1c.png,5657 Annealed,40,115,100,,,matweb
+ASM Dataset,processed_images/,6061 T651-1c.png,6061 T651,276,84,100,,,matweb
+ASM Dataset,processed_images/,6151 T6-1c.png,6151 T6,295,144,50,,,matweb
+ASM Dataset,processed_images/,7050 T73652-1c.png,7050 T73652,455,134,254,,,matweb
+ASM Dataset,processed_images/,7050 T73652-2c.png,7050 T73652,455,134,254,,,matweb
+ASM Dataset,processed_images/,7050 T73652-3c.png,7050 T73652,455,131,254,,,matweb
+ASM Dataset,processed_images/,7075 Annealed-1c.png,7075 Annealed,145,145,25,,,matweb
+ASM Dataset,processed_images/,7075 Annealed-2c.png,7075 Annealed,145,141,25,,,matweb
+ASM Dataset,processed_images/,7075 T7352-1c.png,7075 T7352,386,143,50,,,matweb
+ASM Dataset,processed_images/,7075 T7352-2c.png,7075 T7352,386,141,50,,,matweb
+ASM Dataset,processed_images/,R30075 HIP-1c.png,R30075 HIP,840,84,20,,,matweb
+ASM Dataset,processed_images/,C85700-1c.png,C85700,110,157,200,,,matweb
+ASM Dataset,processed_images/,C85700-2c.png,C85700,110,195,50,,,matweb
+ASM Dataset,processed_images/,C85200-1c.png,C85200,95,162,200,,,makeitfrom
+ASM Dataset,processed_images/,C85200-2c.png,C85200,95,202,50,,,makeitfrom
+ASM Dataset,processed_images/,C85200-3c.png,C85200,95,152,200,,,makeitfrom
+ASM Dataset,processed_images/,C85200-4c.png,C85200,95,199,50,,,makeitfrom
+ASM Dataset,processed_images/,C86300-1c.png,C86300,460,152,100,,,matweb
+ASM Dataset,processed_images/,C86300-2c.png,C86300,460,115,100,,,matweb
+ASM Dataset,processed_images/,C86300-3c.png,C86300,460,119,100,,,matweb
+ASM Dataset,processed_images/,C86300-4c.png,C86300,460,122,20,approx,,matweb
+ASM Dataset,processed_images/,C86300-5c.png,C86300,460,120,20,purity,,matweb
+ASM Dataset,processed_images/,C86300-6c.png,C86300,460,155,200,,,matweb
+ASM Dataset,processed_images/,C86300-7c.png,C86300,460,193,50,,,matweb
+ASM Dataset,processed_images/,C86300-8c.png,C86300,460,150,20,,,makeitfrom
+ASM Dataset,processed_images/,C35000-1c.png,C35000,90,119,100,,,matweb
+ASM Dataset,processed_images/,C35000-2c.png,C35000,90,121,100,,,makeitfrom
+ASM Dataset,processed_images/,MetalTek C86300-1c.png,MetalTek C86300,415,154,200,,,makeitfrom
+ASM Dataset,processed_images/,MetalTek C86300-2c.png,MetalTek C86300,415,193,50,,,makeitfrom
+ASM Dataset,processed_images/,MetalTek C86300-3c.png,MetalTek C86300,415,155,20,,,matweb
+ASM Dataset,processed_images/,MetalTek C86300-4c.png,MetalTek C86300,415,157,200,,,matweb
+ASM Dataset,processed_images/,MetalTek C86300-5c.png,MetalTek C86300,415,194,50,,,matweb
+ASM Dataset,processed_images/,Muntz Metal-1c.png,Muntz Metal,110,117,100,,,matweb
+ASM Dataset,processed_images/,C61800-1c.png,C61800,310,157,20,,,matweb
+ASM Dataset,processed_images/,C61800-2c.png,C61800,310,156,200,,,matweb
+ASM Dataset,processed_images/,C61800-3c.png,C61800,310,154,20,,,matweb
+ASM Dataset,processed_images/,C61800-4c.png,C61800,310,191,50,,,matweb
+ASM Dataset,processed_images/,C61800-5c.png,C61800,310,150,200,,,matweb
+ASM Dataset,processed_images/,C95500-1c.png,C95500,395,148,200,,,matweb
+ASM Dataset,processed_images/,C90700-1c.png,C90700,150,121,200,,,matweb
+ASM Dataset,processed_images/,C90700-2c.png,C90700,150,148,50,,,matweb
+ASM Dataset,processed_images/,C93200-1c.png,C93200,130,124,100,,,matweb
+ASM Dataset,processed_images/,C93200-2c.png,C93200,130,121,100,,,matweb
+ASM Dataset,processed_images/,C93700-1c.png,C93700,115,121,20,,,matweb
+ASM Dataset,processed_images/,C93700-2c.png,C93700,115,121,200,,,matweb
+ASM Dataset,processed_images/,C93700-3c.png,C93700,115,121,20,,,matweb
+ASM Dataset,processed_images/,C93700-4c.png,C93700,115,119,100,,,matweb
+ASM Dataset,processed_images/,C95400 as Cast-1c.png,C95400 as Cast,240,143,50,,,matweb
+ASM Dataset,processed_images/,C95400 Tempered-1c.png,C95400 Tempered,310,117,50,,,matweb
+ASM Dataset,processed_images/,C95400 Tempered-2c.png,C95400 Tempered,310,121,20,,,matweb
+ASM Dataset,processed_images/,C95500 as Cast-1c.png,C95500 as Cast,320,142,50,,,matweb
+ASM Dataset,processed_images/,C95500 as Cast-2c.png,C95500 as Cast,320,143,50,,,matweb
+ASM Dataset,processed_images/,C83600-1c.png,C83600,95,153,1000,,,matweb
+ASM Dataset,processed_images/,C83600-2c.png,C83600,95,191,500,,,matweb
+ASM Dataset,processed_images/,C90300-1c.png,C90300,125,191,100,,,matweb
+ASM Dataset,processed_images/,C90300-2c.png,C90300,125,191,50,,,matweb
+ASM Dataset,processed_images/,C90300-3c.png,C90300,125,153,200,,,matweb
+ASM Dataset,processed_images/,C90300-4c.png,C90300,125,148,20,,,matweb
+ASM Dataset,processed_images/,C97600-1c.png,C97600,140,119,20,,,matweb
+ASM Dataset,processed_images/,C97600-2c.png,C97600,140,120,200,,,matweb
+ASM Dataset,processed_images/,C97600-3c.png,C97600,140,150,50,,,matweb
+ASM Dataset,processed_images/,C97600-4c.png,C97600,140,114,100,,,matweb
+ASM Dataset,processed_images/,C97600-5c.png,C97600,140,116,50,,,matweb
+ASM Dataset,processed_images/,C97600-6c.png,C97600,140,117,25,,,matweb
+ASM Dataset,processed_images/,C97800-1c.png,C97800,170,86,100,,,matweb
+ASM Dataset,processed_images/,C17510 A-1c.png,C17510 A,120,121,20,,,matweb
+ASM Dataset,processed_images/,C17510 AT-1c.png,C17510 AT,630,118,20,,,matweb
+ASM Dataset,processed_images/,C26000 A-1c.png,C26000 A,140,193,200,,,matweb
+ASM Dataset,processed_images/,C26000 A-2c.png,C26000 A,140,114,100,,,matweb
+ASM Dataset,processed_images/,C26000 A-3c.png,C26000 A,140,69,200,,,matweb
+ASM Dataset,processed_images/,C26000 A-4c.png,C26000 A,140,113,200,,,matweb
+ASM Dataset,processed_images/,C26000 A-5c.png,C26000 A,140,65,200,,,matweb
+ASM Dataset,processed_images/,C26000 A-6c.png,C26000 A,140,63,50,,,matweb
+ASM Dataset,processed_images/,C26000 A-7c.png,C26000 A,140,63,200,,,matweb
+ASM Dataset,processed_images/,C26000 A-8c.png,C26000 A,140,62,200,,,matweb
+ASM Dataset,processed_images/,C26000 A-9c.png,C26000 A,140,61,200,,,matweb
+ASM Dataset,processed_images/,C26000 A-10c.png,C26000 A,140,62,200,,,matweb
+ASM Dataset,processed_images/,C28000 M20-1c.png,C28000 M20,150,87,100,,,makeitfrom
+ASM Dataset,processed_images/,C51000 A-1c.png,C51000 A,130,142,25,,,makeitfrom
+ASM Dataset,processed_images/,C61300 M20-1c.png,C61300 M20,240,122,100,,,makeitfrom
+ASM Dataset,processed_images/,C61300 M20-2c.png,C61300 M20,240,120,20,,,makeitfrom
+ASM Dataset,processed_images/,C63200 TQ50-1c.png,C63200 TQ50,350,124,100,,,makeitfrom
+ASM Dataset,processed_images/,C63200 TQ50-2c.png,C63200 TQ50,350,123,20,,,makeitfrom
+ASM Dataset,processed_images/,C10200 A-1c.png,C10200 A,90,144,50,,,matweb
+ASM Dataset,processed_images/,C11000 A-1c.png,C11000 A,69,148,50,,,makeitfrom
+ASM Dataset,processed_images/,C11000 A-2c.png,C11000 A,69,141,500,,,makeitfrom
+ASM Dataset,processed_images/,C11000 M20-1c.png,C11000 M20,77,144,50,,,makeitfrom
+ASM Dataset,processed_images/,C11000 M20-2c.png,C11000 M20,77,144,50,,,makeitfrom
+ASM Dataset,processed_images/,C11000 M20-3c.png,C11000 M20,77,149,50,,,makeitfrom
+ASM Dataset,processed_images/,C11000 M20-4c.png,C11000 M20,77,150,50,,,makeitfrom
+ASM Dataset,processed_images/,C11000 M20-5c.png,C11000 M20,77,119,200,,,makeitfrom
+ASM Dataset,processed_images/,C11000 M20-6c.png,C11000 M20,77,118,200,,,makeitfrom
+ASM Dataset,processed_images/,C12500 M20-1c.png,C12500 M20,75,112,50,,,makeitfrom
+ASM Dataset,processed_images/,C14200 H55-1c.png,C14200 H55,230,140,500,,,makeitfrom
+ASM Dataset,processed_images/,C70600 A-1c.png,C70600 A,100,119,100,,,makeitfrom
+ASM Dataset,processed_images/,C70600 A-2c.png,C70600 A,100,121,20,,,makeitfrom
+ASM Dataset,processed_images/,C18100 CWA-1c.png,C18100 CWA,455,150,50,,,matweb
+ASM Dataset,processed_images/,C18100 CWA-2c.png,C18100 CWA,455,149,50,,,matweb
+ASM Dataset,processed_images/,AZ63A T4-1c.png,AZ63A T4,85,115,100,,,makeitfrom
+ASM Dataset,processed_images/,AZ63A T4-2c.png,AZ63A T4,85,112,100,,,makeitfrom
+ASM Dataset,processed_images/,AZ63A T6-1c.png,AZ63A T6,120,143,50,,,makeitfrom
+ASM Dataset,processed_images/,AZ91A F-1c.png,AZ91A F,160,141,50,,,makeitfrom
+ASM Dataset,processed_images/,AZ91C F-1c.png,AZ91C F,83,65,50,,,makeitfrom
+ASM Dataset,processed_images/,AZ91C T6-1c.png,AZ91C T6,130,85,100,,,makeitfrom
+ASM Dataset,processed_images/,AZ92A T6-1c.png,AZ92A T6,140,113,100,,,makeitfrom
+ASM Dataset,processed_images/,AZ92A T6-2c.png,AZ92A T6,140,113,100,,,makeitfrom
+ASM Dataset,processed_images/,AZ92A T6-3c.png,AZ92A T6,140,112,100,,,makeitfrom
+ASM Dataset,processed_images/,EZ33A T5-1c.png,EZ33A T5,100,115,100,,,makeitfrom
+ASM Dataset,processed_images/,HK31A T6-1c.png,HK31A T6,105,143,25,,,matweb
+ASM Dataset,processed_images/,HZ32A T5-1c.png,HZ32A T5,90,141,50,,,matweb
+ASM Dataset,processed_images/,QE22A T6-1c.png,QE22A T6,190,113,100,,,makeitfrom
+ASM Dataset,processed_images/,QE22A T6-2c.png,QE22A T6,190,143,25,,,makeitfrom
+ASM Dataset,processed_images/,ZH62A T5-1c.png,ZH62A T5,170,143,50,,,makeitfrom
+ASM Dataset,processed_images/,ZK51A T5-1c.png,ZK51A T5,150,143,50,,,makeitfrom
+ASM Dataset,processed_images/,AZ80A T5-1c.png,AZ80A T5,230,113,50,,,makeitfrom
+ASM Dataset,processed_images/,HM21A T5-1c.png,HM21A T5,150,142,50,,,matweb
+ASM Dataset,processed_images/,HM21A T8-1c.png,HM21A T8,170,145,25,,,matweb
+ASM Dataset,processed_images/,HM31A T5-1c.png,HM31A T5,270,144,25,,,makeitfrom
+ASM Dataset,processed_images/,ZK60A T5-1c.png,ZK60A T5,230,141,25,,,makeitfrom
+ASM Dataset,processed_images/,ZK60A F-1c.png,ZK60A F,230,142,50,,,makeitfrom
+ASM Dataset,processed_images/,ZK60A T5 Forged-1c.png,ZK60A T5 Forged,215,142,25,,,matweb
+ASM Dataset,processed_images/,Elgiloy ColdW-1c.png,Elgiloy ColdW,1310,143,50,,,matweb
+ASM Dataset,processed_images/,Elgiloy A-1c.png,Elgiloy A,510,145,50,,,matweb
+ASM Dataset,processed_images/,L-605 ColdW-1c.png,L-605 ColdW,1600,90,50,,,makeitfrom
+ASM Dataset,processed_images/,MP35N ColdW-1c.png,MP35N ColdW,1413,152,100,,,makeitfrom
+ASM Dataset,processed_images/,718 ColdWA-1c.png,718 ColdWA,1455,194,100,,,makeitfrom
+ASM Dataset,processed_images/,718 HTA-1c.png,718 HTA,1000,196,20,,,makeitfrom
+ASM Dataset,processed_images/,718 HTA-2c.png,718 HTA,1000,191,2,,,makeitfrom
+ASM Dataset,processed_images/,718 HTA-3c.png,718 HTA,1000,195,2,,,makeitfrom
+ASM Dataset,processed_images/,718 HTA-4c.png,718 HTA,1000,191,20,,,makeitfrom
+ASM Dataset,processed_images/,718 HTA-5c.png,718 HTA,1000,144,50,,,makeitfrom
+ASM Dataset,processed_images/,N30002-1c.png,N30002,275,86,25,,,matweb
+ASM Dataset,processed_images/,N13100-1c.png,N13100,655,113,100,,,matweb
+ASM Dataset,processed_images/,N07713-1c.png,N07713,690,177,200,,,matweb
+ASM Dataset,processed_images/,N07713-2c.png,N07713,690,174,200,,,matweb
+ASM Dataset,processed_images/,N07750 HTA-1c.png,N07750 HTA,655,139,1,,,matweb
+ASM Dataset,processed_images/,N07750 HTA-2c.png,N07750 HTA,655,140,1,,,matweb
+ASM Dataset,processed_images/,N07001 Aged-1c.png,N07001 Aged,850,207,50,,,makeitfrom
+ASM Dataset,processed_images/,N07001 HTA-1c.png,N07001 HTA,897,194,100,,,matweb
+ASM Dataset,processed_images/,N07001 HTA-2c.png,N07001 HTA,897,70,100,,,matweb
+ASM Dataset,processed_images/,N07001 HTA-3c.png,N07001 HTA,897,56,100,,,matweb
+ASM Dataset,processed_images/,N07001 HTA-4c.png,N07001 HTA,897,56,100,,,matweb
+ASM Dataset,processed_images/,N07001 HTA-5c.png,N07001 HTA,897,69,100,,,matweb
+ASM Dataset,processed_images/,R56320 A-1c.png,R56320 A,550,145,25,,,makeitfrom
+ASM Dataset,processed_images/,R56320 CWSR-1c.png,R56320 CWSR,724,142,25,,,on database
+ASM Dataset,processed_images/,R54520 A-1c.png,R54520 A,840,135,100,,,makeitfrom (as grade 6)
+ASM Dataset,processed_images/,R56210 A-1c.png,R56210 A,760,115,100,,,matweb
+ASM Dataset,processed_images/,R56210 Hrolled-1c.png,R56210 Hrolled,760,114,100,,,matweb
+ASM Dataset,processed_images/,R54620 HT-1c.png,R54620 HT,895,114,100,,,matweb
+ASM Dataset,processed_images/,R54620-1c.png,R54620,910,183,200,,,given
+ASM Dataset,processed_images/,R54620-2c.png,R54620,910,234,100,,,given
+ASM Dataset,processed_images/,R54620-3c.png,R54620,910,101,100,,,given
+ASM Dataset,processed_images/,R54620-4c.png,R54620,910,124,50,,,given
+ASM Dataset,processed_images/,R54620-5c.png,R54620,910,181,200,,,given
+ASM Dataset,processed_images/,R54620-6c.png,R54620,910,228,100,,,given
+ASM Dataset,processed_images/,R54810 HT-1c.png,R54810 HT,1070,127,25,,,matweb
+ASM Dataset,processed_images/,R54810 HT-2c.png,R54810 HT,1070,130,25,,,matweb
+ASM Dataset,processed_images/,R54810 HT-3c.png,R54810 HT,1070,143,25,,,matweb
+ASM Dataset,processed_images/,R54810 HT-4c.png,R54810 HT,1070,144,25,,,matweb
+ASM Dataset,processed_images/,R54810 HT-5c.png,R54810 HT,1070,143,25,,,matweb
+ASM Dataset,processed_images/,NearTi-17 HT-1c.png,NearTi-17 HT,1014,261,50,,,given
+ASM Dataset,processed_images/,R56260 A-1c.png,R56260 A,1020,114,50,,,matweb
+ASM Dataset,processed_images/,R56400 A-1c.png,R56400 A,830,115,50,,,matweb
+ASM Dataset,processed_images/,R56400 A-2c.png,R56400 A,830,167,50,,,matweb
+ASM Dataset,processed_images/,R56400 A1-1c.png,R56400 A1,805,115,50,,,given
+ASM Dataset,processed_images/,R56400 A1-2c.png,R56400 A1,805,157,2,,,given
+ASM Dataset,processed_images/,R56400 A2-1c.png,R56400 A2,900,117,50,,,given
+ASM Dataset,processed_images/,R56400 A2-2c.png,R56400 A2,900,149,2,,,given
+ASM Dataset,processed_images/,R56400 Forging A-1c.png,R56400 Forging A,860,144,50,,,matweb
+ASM Dataset,processed_images/,R56400 Plate A-1c.png,R56400 Plate A,828,143,50,,,matweb
+ASM Dataset,processed_images/,R56400 Plate A-2c.png,R56400 Plate A,828,143,50,,,matweb
+ASM Dataset,processed_images/,R56400 Plate A-3c.png,R56400 Plate A,828,142,50,,,matweb
+ASM Dataset,processed_images/,R56400 STA-1c.png,R56400 STA,1100,195,100,,,matweb
+ASM Dataset,processed_images/,R56401 A-1c.png,R56401 A,790,90,20,,,matweb
+ASM Dataset,processed_images/,R58640 STA-1c.png,R58640 STA,1120,142,50,,,matweb
+ASM Dataset,processed_images/,Ti-10-2-3 Sample 1-1c.png,Ti-10-2-3 Sample 1,1207,124,25,,,given
+ASM Dataset,processed_images/,Ti-10-2-3 Sample 2-1c.png,Ti-10-2-3 Sample 2,1195,123,25,,,given
+ASM Dataset,processed_images/,Ti-10-2-3 Sample 3-1c.png,Ti-10-2-3 Sample 3,1191,125,25,,,given
+ASM Dataset,processed_images/,Ti-10-2-3 Sample 4-1c.png,Ti-10-2-3 Sample 4,1169,122,25,,,given
+ASM Dataset,processed_images/,R58010 ST-1c.png,R58010 ST,830,146,50,,,matweb
+ASM Dataset,processed_images/,R58010 STA-1c.png,R58010 STA,1100,143,50,,,matweb
+ASM Dataset,processed_images/,Ti Grade 7 (CP) A-1c.png,Ti Grade 7 (CP) A,340,144,50,,,matweb
+ASM Dataset,processed_images/,Ti Grade 7 (CP) A-2c.png,Ti Grade 7 (CP) A,340,145,50,,,matweb
+ASM Dataset,processed_images/,Ti Grade 7 (CP) A-3c.png,Ti Grade 7 (CP) A,340,143,50,,,matweb
+ASM Dataset,processed_images/,R50250 A-1c.png,R50250 A,240,138,200,,,matweb
+ASM Dataset,processed_images/,R50400 A-1c.png,R50400 A,340,168,50,,,matweb
+ASM Dataset,processed_images/,R50700 A-1c.png,R50700 A,590,73,100,,,matweb
+ASM Dataset,processed_images/,R50700 A-2c.png,R50700 A,590,87,50,,,matweb
+ASM Dataset,processed_images/,R50700 A-3c.png,R50700 A,590,78,50,,,matweb
+ASM Dataset,processed_images/,R50700 A-4c.png,R50700 A,590,81,100,,,matweb
+ASM Dataset,processed_images/,F33100 As Cast-1c.png,F33100 As Cast,310,116,100,,,matweb
+ASM Dataset,processed_images/,F33800 As Cast-1c.png,F33800 As Cast,410,161,200,,,makeitfrom
+ASM Dataset,processed_images/,F33800 As Cast-2c.png,F33800 As Cast,410,145,25,,,makeitfrom
+ASM Dataset,processed_images/,ASTM 897M 850-550-10 As Cast-1c.png,ASTM 897M 850-550-10 As Cast,758,116,25,,,matweb
+ASM Dataset,processed_images/,ASTM 897M 1200-850-04 As Cast-1c.png,ASTM 897M 1200-850-04 As Cast,1100,116,25,,,matweb
+ASM Dataset,processed_images/,ASTM 897M 1400-1100-01 As Cast-1c.png,ASTM 897M 1400-1100-01 As Cast,1240,115,25,,,matweb
+ASM Dataset,processed_images/,G3000 As Cast-1c.png,G3000 As Cast,150,116,50,,,makeitfrom
+ASM Dataset,processed_images/,G3000 As Cast-2c.png,G3000 As Cast,150,117,100,,,makeitfrom
+ASM Dataset,processed_images/,Class 30 As Cast-1c.png,Class 30 As Cast,130,158,20,,,makeitfrom
+ASM Dataset,processed_images/,Class 30 As Cast-2c.png,Class 30 As Cast,130,165,50,,,makeitfrom
+ASM Dataset,processed_images/,Class 30 As Cast-3c.png,Class 30 As Cast,130,160,200,,,makeitfrom
+ASM Dataset,processed_images/,Class 30 As Cast-4c.png,Class 30 As Cast,130,166,50,,,makeitfrom
+ASM Dataset,processed_images/,Class 30 As Cast-5c.png,Class 30 As Cast,130,178,20,,,makeitfrom
+ASM Dataset,processed_images/,Class 30 As Cast-6c.png,Class 30 As Cast,130,227,50,,,makeitfrom
+ASM Dataset,processed_images/,Class 30 As Cast-7c.png,Class 30 As Cast,130,115,50,,,makeitfrom
+ASM Dataset,processed_images/,A286 STA-1c.png,A286 STA,759,193,100,,,matweb
+ASM Dataset,processed_images/,Discaloy STA-1c.png,Discaloy STA,730,143,25,,,matweb
+ASM Dataset,processed_images/,Discaloy STA-2c.png,Discaloy STA,730,143,25,,,matweb
+ASM Dataset,processed_images/,N08800 A-1c.png,N08800 A,210,142,50,,,matweb
+ASM Dataset,processed_images/,R30155 STQ-1c.png,R30155 STQ,384,142,25,,,matweb
+ASM Dataset,processed_images/,5160 QT-1c.png,5160 QT,1005,63,20,,,matweb
+ASM Dataset,processed_images/,4118 QT-1c.png,4118 QT,620,56,20,,,matweb
+ASM Dataset,processed_images/,4130 Normalized-1c.png,4130 Normalized,435,144,25,,,matweb
+ASM Dataset,processed_images/,4130 A Furnace Cooled-1c.png,4130 A Furnace Cooled,460,87,10,,,matweb
+ASM Dataset,processed_images/,4140 Normalized-1c.png,4140 Normalized,635,63,10,,,matweb
+ASM Dataset,processed_images/,4140 A Furnace Cooled-1c.png,4140 A Furnace Cooled,415,114,10,,,matweb
+ASM Dataset,processed_images/,4140 HTQT595-1c.png,4140 HTQT595,1025,115,10,,,matweb
+ASM Dataset,processed_images/,4140 HTQT620-1c.png,4140 HTQT620,889,86,10,,,matweb
+ASM Dataset,processed_images/,ASTM A 542 class 2 QT-1c.png,ASTM A 542 class 2 QT,690,102,2.5,,,matmatch
+ASM Dataset,processed_images/,ASTM A 542 class 2 QT-2c.png,ASTM A 542 class 2 QT,690,115,100,,,matmatch
+ASM Dataset,processed_images/,ASTM A562 A-1c.png,ASTM A562 A,205,116,100,,,matmatch
+ASM Dataset,processed_images/,ASTM A562 A-2c.png,ASTM A562 A,205,84,2.5,,,matmatch
+ASM Dataset,processed_images/,8617 A-1c.png,8617 A,320,116,50,,,makeitfrom
+ASM Dataset,processed_images/,8620 Normalized-1c.png,8620 Normalized,360,116,50,,,makeitfrom
+ASM Dataset,processed_images/,8740 Annealed-1c.png,8740 Annealed,380,166,20,,,makeitfrom
+ASM Dataset,processed_images/,8740 Tempered-1c.png,8740 Tempered,1060,165,20,,,matweb
+ASM Dataset,processed_images/,9310 Normalized-1c.png,9310 Normalized,570,116,50,,,matweb
+ASM Dataset,processed_images/,ASTM A106 grade B-1c.png,ASTM A106 grade B,240,115,100,,,matmatch
+ASM Dataset,processed_images/,1015 Cold Drawn-1c.png,1015 Cold Drawn,325,115,100,,,matweb
+ASM Dataset,processed_images/,1015 Cold Drawn-2c.png,1015 Cold Drawn,325,112,100,,,matweb
+ASM Dataset,processed_images/,1015 Normalized-1c.png,1015 Normalized,325,113,100,,,matweb
+ASM Dataset,processed_images/,1020 Hot Rolled-1c.png,1020 Hot Rolled,205,73,100,,,matweb
+ASM Dataset,processed_images/,1050 QT480-1c.png,1050 QT480,580,95,10,,,matweb
+ASM Dataset,processed_images/,1050 QT480-2c.png,1050 QT480,580,104,1,,,matweb
+ASM Dataset,processed_images/,1050 QT595-1c.png,1050 QT595,543,95,10,,,matweb
+ASM Dataset,processed_images/,1050 QT595-2c.png,1050 QT595,543,102,1,,,matweb
+ASM Dataset,processed_images/,1060 Hot Rolled-1c.png,1060 Hot Rolled,400,113,10,,,makeitfrom
+ASM Dataset,processed_images/,1060 Hot Rolled-2c.png,1060 Hot Rolled,400,112,10,,,makeitfrom
+ASM Dataset,processed_images/,ASTM A36 As Rolled-1c.png,ASTM A36 As Rolled,250,143,50,,,matweb
+ASM Dataset,processed_images/,ASTM A285 Grade C-1c.png,ASTM A285 Grade C,205,128,50,,,matweb
+ASM Dataset,processed_images/,ASTM A515 Grade 70-1c.png,ASTM A515 Grade 70,265,115,100,,,matweb
+ASM Dataset,processed_images/,ASTM A516 Grade 70-1c.png,ASTM A516 Grade 70,260,113,100,,,matweb
+ASM Dataset,processed_images/,1117 Normalized-1c.png,1117 Normalized,305,115,50,,,matweb
+ASM Dataset,processed_images/,AL-6XN-1c.png,AL-6XN,370,137,100,,,matweb
+ASM Dataset,processed_images/,J92500-1c.png,J92500,205,115,100,,,matweb
+ASM Dataset,processed_images/,J92701-1c.png,J92701,280,116,100,,,makeitfrom
+ASM Dataset,processed_images/,CK-20 As Cast-1c.png,CK-20 As Cast,195,115,100,,,matweb
+ASM Dataset,processed_images/,CN-7M As Cast-1c.png,CN-7M As Cast,275,145,25,,,matweb
+ASM Dataset,processed_images/,CN-7M As Cast-2c.png,CN-7M As Cast,275,143,25,,,matweb
+ASM Dataset,processed_images/,ASTM A890 5A As Cast-1c.png,ASTM A890 5A As Cast,515,68,100,,,matweb
+ASM Dataset,processed_images/,CA-6NM As Cast-1c.png,CA-6NM As Cast,550,92,50,,,matweb
+ASM Dataset,processed_images/,CA6NM Tempered-1c.png,CA6NM Tempered,690,116,25,,,"STEEL CASTINGS HANDBOOK Supplement 8 High Alloy Data Sheets Corrosion Series, Steel Founders’ Society of America, 2004"
+ASM Dataset,processed_images/,CA6NM Tempered-2c.png,CA6NM Tempered,690,114,25,,,"STEEL CASTINGS HANDBOOK Supplement 8 High Alloy Data Sheets Corrosion Series, Steel Founders’ Society of America, 2004"
+ASM Dataset,processed_images/,CA6NM Tempered-3c.png,CA6NM Tempered,690,115,25,,,"STEEL CASTINGS HANDBOOK Supplement 8 High Alloy Data Sheets Corrosion Series, Steel Founders’ Society of America, 2004"
+ASM Dataset,processed_images/,CA15 As Cast-1c.png,CA15 As Cast,450,114,100,,,matweb
+ASM Dataset,processed_images/,CA15 As Cast-2c.png,CA15 As Cast,450,113,50,,,matweb
+ASM Dataset,processed_images/,CA15 Tempered at 1200F-1c.png,CA15 Tempered at 1200F,690,115,100,,,"STEEL CASTINGS HANDBOOK Supplement 8 High Alloy Data Sheets Corrosion Series, Steel Founders’ Society of America, 2004"
+ASM Dataset,processed_images/,CA15 Tempered at 1200F-2c.png,CA15 Tempered at 1200F,690,113,50,,,"STEEL CASTINGS HANDBOOK Supplement 8 High Alloy Data Sheets Corrosion Series, Steel Founders’ Society of America, 2004"
+ASM Dataset,processed_images/,CA15 Tempered at 1200F-3c.png,CA15 Tempered at 1200F,690,142,25,,,"STEEL CASTINGS HANDBOOK Supplement 8 High Alloy Data Sheets Corrosion Series, Steel Founders’ Society of America, 2004"
+ASM Dataset,processed_images/,CA15 Tempered at 1200F-4c.png,CA15 Tempered at 1200F,690,115,50,,,"STEEL CASTINGS HANDBOOK Supplement 8 High Alloy Data Sheets Corrosion Series, Steel Founders’ Society of America, 2004"
+ASM Dataset,processed_images/,CA15 Tempered at 1200F-5c.png,CA15 Tempered at 1200F,690,142,25,,,"STEEL CASTINGS HANDBOOK Supplement 8 High Alloy Data Sheets Corrosion Series, Steel Founders’ Society of America, 2004"
+ASM Dataset,processed_images/,17-4 PH HT-1c.png,17-4 PH HT,985,195,100,,,matweb
+ASM Dataset,processed_images/,ASTM A517 Grade B QT-1c.png,ASTM A517 Grade B QT,655,143,25,,,matmatch
+ASM Dataset,processed_images/,ASTM A517 Grade B QT-2c.png,ASTM A517 Grade B QT,655,87,2.5,,,matmatch
+ASM Dataset,processed_images/,ASTM A537 Grade A Normalized-1c.png,ASTM A537 Grade A Normalized,330,144,50,,,matmatch
+ASM Dataset,processed_images/,ASTM A537 Grade A Normalized-2c.png,ASTM A537 Grade A Normalized,330,86,2.5,,,matmatch
+ASM Dataset,processed_images/,ASTM A537 Grade A Normalized-3c.png,ASTM A537 Grade A Normalized,330,113,100,,,matmatch
+ASM Dataset,processed_images/,ASTM A537 Grade A Normalized-4c.png,ASTM A537 Grade A Normalized,330,116,100,,,matmatch
+ASM Dataset,processed_images/,ASTM A537 Grade B QT-1c.png,ASTM A537 Grade B QT,415,139,50,,,octalmetals
+ASM Dataset,processed_images/,ASTM A537 Grade B QT-2c.png,ASTM A537 Grade B QT,415,83,2.5,,,octalmetals
+ASM Dataset,processed_images/,ASTM A537 Grade B QT-3c.png,ASTM A537 Grade B QT,415,143,25,,,octalmetals
+ASM Dataset,processed_images/,ASTM A572 Grade 55-1c.png,ASTM A572 Grade 55,380,112,100,,,matweb
+ASM Dataset,processed_images/,ASTM A572 Grade 65-1c.png,ASTM A572 Grade 65,510,144,50,,,makeitfrom
+ASM Dataset,processed_images/,TRIP 780 Cold Rolled-1c.png,TRIP 780 Cold Rolled,500,97,2,,,matweb
+ASM Dataset,processed_images/,201 Stainless Steel Annealed-1c.png,201 Stainless Steel Annealed,301,137,100,,,matweb
+ASM Dataset,processed_images/,201 Stainless Steel Annealed-2c.png,201 Stainless Steel Annealed,301,144,50,,,matweb
+ASM Dataset,processed_images/,301 Sixteenth Hard-1c.png,301 Sixteenth Hard,350,114,50,,,makeitfrom
+ASM Dataset,processed_images/,301 Quarter Hard-1c.png,301 Quarter Hard,590,143,50,,,makeitfrom
+ASM Dataset,processed_images/,301 Full Hard-1c.png,301 Full Hard,1080,143,50,,,makeitfrom
+ASM Dataset,processed_images/,302 Annealed-1c.png,302 Annealed,275,145,25,,,matweb
+ASM Dataset,processed_images/,304 Annealed-1c.png,304 Annealed,230,144,50,,,makeitfrom
+ASM Dataset,processed_images/,304 Annealed-2c.png,304 Annealed,230,115,100,,,makeitfrom
+ASM Dataset,processed_images/,304 Quarter Hard-1c.png,304 Quarter Hard,515,152,200,,,matweb
+ASM Dataset,processed_images/,309 Annealed-1c.png,309 Annealed,275,152,200,,,matweb
+ASM Dataset,processed_images/,316 Annealed-1c.png,316 Annealed,230,144,25,,,makeitfrom
+ASM Dataset,processed_images/,316 Annealed-2c.png,316 Annealed,230,62,100,,,makeitfrom
+ASM Dataset,processed_images/,316 Annealed-3c.png,316 Annealed,230,56,100,,,makeitfrom
+ASM Dataset,processed_images/,316 Annealed-4c.png,316 Annealed,230,86,100,,,makeitfrom
+ASM Dataset,processed_images/,316 Annealed-5c.png,316 Annealed,230,82,100,,,makeitfrom
+ASM Dataset,processed_images/,316L Annealed-1c.png,316L Annealed,190,124,20,,,makeitfrom
+ASM Dataset,processed_images/,316L Annealed-2c.png,316L Annealed,190,70,200,,,makeitfrom
+ASM Dataset,processed_images/,316L Annealed-3c.png,316L Annealed,190,85,50,,,makeitfrom
+ASM Dataset,processed_images/,316L Annealed-4c.png,316L Annealed,190,85,50,,,makeitfrom
+ASM Dataset,processed_images/,330 Annealed-1c.png,330 Annealed,290,153,100,,,matweb
+ASM Dataset,processed_images/,SAF 2205 Annealed-1c.png,SAF 2205 Annealed,500,139,100,,,makeitfrom
+ASM Dataset,processed_images/,409 Annealed-1c.png,409 Annealed,200,117,100,,,makeitfrom
+ASM Dataset,processed_images/,430 Annealed-1c.png,430 Annealed,260,143,25,,,makeitfrom
+ASM Dataset,processed_images/,430 Annealed-2c.png,430 Annealed,260,136,50,,,makeitfrom
+ASM Dataset,processed_images/,410 Annealed-1c.png,410 Annealed,290,208,100,,,makeitfrom
+ASM Dataset,processed_images/,410 Tempered at 453c-1c.png,410 Tempered at 453c,920,167,50,,,matweb
+ASM Dataset,processed_images/,431 Annealed-1c.png,431 Annealed,655,138,50,,,"Stainless Steel 431 Grade Data Sheet, Atlas Steels, 2021"
+ASM Dataset,processed_images/,431 Tempered-1c.png,431 Tempered,800,136,200,,,"Stainless Steel 431 Grade Data Sheet, Atlas Steels, 2021"
+ASM Dataset,processed_images/,440A Annealed-1c.png,440A Annealed,448,142,25,,,"440A Stainless Steel, Ulbrich Stainless Steels & Special Metals, Inc., 2015"
+ASM Dataset,processed_images/,440A Annealed-2c.png,440A Annealed,448,167,50,,,"440A Stainless Steel, Ulbrich Stainless Steels & Special Metals, Inc., 2015"
+ASM Dataset,processed_images/,440A Tempered-1c.png,440A Tempered,1650,143,25,,,makeitfrom
+ASM Dataset,processed_images/,440B Tempered-1c.png,440B Tempered,1860,167,50,,,"matweb (supplemented by Carpenter Stainless Type 440B, Carpenter Technology Corporation, 2009)"
+ASM Dataset,processed_images/,440C Annealed-1c.png,440C Annealed,450,150,20,,,makeitfrom
+ASM Dataset,processed_images/,440C Temper 1-1c.png,440C Temper 1,1900,152,20,,,"Grade Data Sheet 400C, Atlas Steels, 2008"
+ASM Dataset,processed_images/,440C Temper 2-1c.png,440C Temper 2,1865,142,25,,,"Grade Data Sheet 400C, Atlas Steels, 2008"
+ASM Dataset,processed_images/,15-5 PH STA-1c.png,15-5 PH STA,1069,137,100,,,matweb
+ASM Dataset,processed_images/,17-7 PH Annealed-1c.png,17-7 PH Annealed,430,118,10,,,makeitfrom
+ASM Dataset,processed_images/,17-7 PH Annealed-2c.png,17-7 PH Annealed,430,114,10,,,makeitfrom
+ASM Dataset,processed_images/,17-7 PH TH1050-1c.png,17-7 PH TH1050,1276,136,100,,,matweb
+ASM Dataset,processed_images/,17-7 PH CH900-1c.png,17-7 PH CH900,1793,116,10,,,matweb
+ASM Dataset,processed_images/,PH 13-8 Mo HTA-1c.png,PH 13-8 Mo HTA,1379,194,100,,,matweb
+ASM Dataset,processed_images/,ASTM A27 Annealed-1c.png,ASTM A27 Annealed,205,116,100,,,matmatch
+ASM Dataset,processed_images/,ASTM A27 Annealed-2c.png,ASTM A27 Annealed,205,114,100,,,matmatch
+ASM Dataset,processed_images/,ASTM A27 As Cast-1c.png,ASTM A27 As Cast,230,115,100,,,makeitfrom
+ASM Dataset,processed_images/,ASTM A216 WCA Annealed-1c.png,ASTM A216 WCA Annealed,230,114,100,,,makeitfrom
+ASM Dataset,processed_images/,ASTM A216 WCA Annealed-2c.png,ASTM A216 WCA Annealed,230,115,100,,,makeitfrom
+ASM Dataset,processed_images/,ASTM A216 WCB Annealed-1c.png,ASTM A216 WCB Annealed,280,144,25,,,makeitfrom
+ASM Dataset,processed_images/,ASTM A216 WCB Normalized-1c.png,ASTM A216 WCB Normalized,280,86,100,,,matmatch
+ASM Dataset,processed_images/,ASTM A216 WCB Normalized-2c.png,ASTM A216 WCB Normalized,280,144,25,,,matmatch
+ASM Dataset,processed_images/,ASTM A216 WCB Normalized-3c.png,ASTM A216 WCB Normalized,280,146,25,,,matmatch
+ASM Dataset,processed_images/,ASTM A148 Normalized-1c.png,ASTM A148 Normalized,460,112,100,,,makeitfrom
+ASM Dataset,processed_images/,A10 Annealed-1c.png,A10 Annealed,470,114,100,,,makeitfrom
+ASM Dataset,processed_images/,D3 QT-1c.png,D3 QT,1550,209,50,,,makeitfrom
+ASM Dataset,processed_images/,O6 Annealed-1c.png,O6 Annealed,410,62,10,,,makeitfrom
+ASM Dataset,processed_images/,W1 Annealed-1c.png,W1 Annealed,330,38,5,,,makeitfrom
+ASM Dataset,processed_images/,W1 Annealed-2c.png,W1 Annealed,330,113,10,,,makeitfrom
